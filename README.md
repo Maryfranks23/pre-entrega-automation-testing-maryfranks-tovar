@@ -48,7 +48,7 @@ pre-entrega-automation-testing-maryfranks-tovar/
 Requisitos previos: Python 3.10 o superior y Google Chrome instalados. Selenium Manager descarga el ChromeDriver adecuado automáticamente.
 
 ```bash
-git clone https://github.com/<tu-usuario>/pre-entrega-automation-testing-maryfranks-tovar.git
+git clone https://github.com/Maryfranks23/pre-entrega-automation-testing-maryfranks-tovar.git
 cd pre-entrega-automation-testing-maryfranks-tovar
 python -m venv .venv
 # Windows
